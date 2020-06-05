@@ -1,0 +1,31 @@
+***********************************************************************
+*Mechanics of multi-centrosomal clustering in bipolar mitotic spindles
+***********************************************************************
+*   Indian Association for the Cultivation of Science, Kolkata, India 
+*   Courant Institute, New York University, New York, USA
+*   (c) 2020
+*  
+*   DESIGN & DEVELOPMENTS
+*   
+*   S Chatterjee, A Sarkar, R Paul
+*   IACS, KOLKATA, INDIA
+*
+*   A Mogilner
+*   NYU, NY, USA
+* *******************************************************************
+
+OS
+
+Even though the code is developed and run under Linux distro, there is nothing 'Linux' specific in the code. It should be able to run smoothly in other OSs as well. 
+
+
+PREREQUISITES
+
+* Standard C++ compiler
+
+*Commands to compile the program
+
+1. g++ MultiCentrosomalAssmbly.c
+
+2. ./a.out 
+
