@@ -25,7 +25,7 @@ PREREQUISITES
 
 *Commands to compile the program
 
-1. g++ MultiCentrosomalAssmbly.c
+1. g++ MultiCentrosomalClustering.c
 
 2. ./a.out 
 
